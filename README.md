@@ -1,5 +1,3 @@
-
-```markdown
 # 🧪 Cypress_POM_Tests
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/HripsimeManukyan/Cypress_POM_Tests)
@@ -11,7 +9,6 @@
 This repository contains **automated end-to-end tests** for the [Demoblaze](https://demoblaze.com) web application using **Cypress** and the **Page Object Model (POM)** design pattern.  
 The tests validate key user workflows such as **logging in** and **adding products to the cart**.
 
----
 
 ## 📁 Project Structure
 
