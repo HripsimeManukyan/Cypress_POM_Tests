@@ -83,5 +83,3 @@ This project is licensed for personal and educational use.
 For commercial usage, please contact the author.
 ```
 
----
-
